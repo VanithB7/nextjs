@@ -22,7 +22,7 @@ const Carousel= ({carouselData})=>{
       className="mySwiper">
           {carouselData.map((carouseldata,index)=>{
               return(
-<SwiperSlide key={index}>
+<SwiperSlide key={index} >
     <img className="w-full xl:h-[calc(100vh_-_90px)] object-cover" src={carouseldata.url} />
 </SwiperSlide>
               );
