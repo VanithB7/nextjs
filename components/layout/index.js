@@ -1,4 +1,4 @@
-import Header from "../common/header";
+import Header from "../common/Header";
 import Navbar from "../common/navbar";
 import Footer from "../common/footer";
 const Layout =(props)=>{
