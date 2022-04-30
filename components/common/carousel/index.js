@@ -1,4 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
+import Image from 'next/image'
 
 // Import Swiper styles
 import "swiper/css";
@@ -23,7 +24,7 @@ const Carousel= ({carouselData})=>{
           {carouselData.map((carouseldata,index)=>{
               return(
 <SwiperSlide key={index} >
-    <img className="w-full xl:h-[calc(100vh_-_90px)] object-cover" src={carouseldata.url} />
+    <Image alt="vaishnavi" className="w-full xl:h-[calc(100vh_-_90px)] object-cover" src={carouseldata.url} />
 </SwiperSlide>
               );
           })}
