@@ -1,0 +1,359 @@
+{
+  "menus":[
+    {
+      "menuName":"Home",
+      "path":"/"
+    },
+    {
+      "menuName":"About Us",
+      "path":"/about-us"
+    },
+    {
+      "menuName":"Residential Project",
+      "path":"/residential-current-projects"
+    },
+    {
+      "menuName":"Commercial Project",
+      "path":"/commercial-current-projects"
+    },
+    {
+      "menuName":"Community Outreach",
+      "path":"/community-outreach"
+    },
+    {
+      "menuName":"Join Us",
+      "path":"/join-us"
+    },
+    {
+      "menuName":"Contact Us",
+      "path":"/contact-us"
+    },
+    {
+      "menuName":"+91-80-46972500",
+      "path":"/"
+    }
+  ],
+   "portfolios": [
+    {
+      "projectTitle":"Vaishnavi Life",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2022/03/Majestic-Entrane-portal-1-1400x700.jpg",
+      "projectLocation":"JP Nagar 9th Phase, Bengaluru",
+      "projectNoOfUnit":605,
+      "type":"Premium Plotted Development ( 1150 sq.ft. – 3550 sq.ft.) ",
+      "rera":"PRMKARERA1250303PR170322004776",
+      "moveOnReady":true,
+      "projectType":"residential",
+      "projectStatus":"current"
+     },
+     {
+      "projectTitle":"Vaishnavi Oasis",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/03/Oasis.png",
+      "projectLocation":"JP Nagar 9th Phase, Bengaluru",
+      "projectNoOfUnit":256,
+      "type":"2 & 3 BHK Apartments",
+      "rera":"PRM/KA/RERA/1251/310/PR/180217/001271",
+      "moveOnReady":true,
+      "projectType":"residential",
+      "projectStatus":"current"
+     },
+     {
+      "projectTitle":"Vaishnavi Serene",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/01/vaishnavi-serene-1-1349x700.jpg",
+      "projectLocation":"Yelahanka, Bengaluru",
+      "projectNoOfUnit":896,
+      "type":"2 & 3 BHK Apartments",
+      "rera":"PRM/KA/RERA/1251/309/PR/180905/001990",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"current"
+     },
+     {
+      "projectTitle":"Vaishnavi Rhapsody",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/04/Web-banner-720X405-REV-5-FEB-01-1400x700.jpg",
+      "projectLocation":"Milton St, Cooke Town, Bengaluru",
+      "projectNoOfUnit":7,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi North24",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/02/original-1573816583-3-1.jpg",
+      "projectLocation":"Hebbal, Bengaluru",
+      "projectNoOfUnit":105,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Gardenia",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/01/Gardenia.png",
+      "projectLocation":"Jalahalli West, Bengaluru",
+      "projectNoOfUnit":628,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+       {
+      "projectTitle":"Vaishnavi Terraces",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Terraces-1349x700.jpg",
+      "projectLocation":"Dollars Colony, JP Nagar, Bengaluru",
+      "projectNoOfUnit":251,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Commune",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/01/Commune.png",
+      "projectLocation":"Off Sarjapur Main Road, Bengaluru",
+      "projectNoOfUnit":46,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Prime",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Prime.png",
+      "projectLocation":"Langford, Bengaluru",
+      "projectNoOfUnit":19,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Nakshatra",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/1H3T0047_8_9_fused-min-2-1400x700.jpg",
+      "projectLocation":"Yeshwanthpur, Bengaluru",
+      "projectNoOfUnit":400,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Orchids",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Orchids.png",
+      "projectLocation":"Off Sarjapur Road, Bengaluru",
+      "projectNoOfUnit":108,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Splendour",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Splendour.png",
+      "projectLocation":"RMV Layout, Bengaluru",
+      "projectNoOfUnit":88,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+      {
+      "projectTitle":"Vaishnavi Springs",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Springs-1349x700.jpg",
+      "projectLocation":"Basavanagudi, Bengaluru",
+      "projectNoOfUnit":12,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+      {
+      "projectTitle":"Vaishnavi Sarovar",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Sarovar-1349x700.jpg",
+      "projectLocation":"Yadavagiri, Mysore",
+      "projectNoOfUnit":65,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Symphony",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Vaishnavi-Symphony-1400x700.jpg",
+      "projectLocation":"Malleshwaram, Bengaluru",
+      "projectNoOfUnit":13,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+      {
+      "projectTitle":"Vaishnavi Rathnam",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Rathnam-1349x700.jpg",
+      "projectLocation":"Jalahalli West, Bengaluru",
+      "projectNoOfUnit":360,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+      {
+      "projectTitle":"Vaishnavi Paradise",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/1H3T0247.jpg",
+      "projectLocation":"Jayanagar 8th Block, Bengaluru",
+      "projectNoOfUnit":60,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Woods",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/banner-1461225414-apartments-in-jpnagar-bangalore.jpg",
+      "projectLocation":"JP Nagar, Bengaluru",
+      "projectNoOfUnit":12,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Park",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/banner-1482410522-vaishnavi-park-apartments-basavangudi-bangalore.jpg",
+      "projectLocation":"Basavanagudi, Bengaluru",
+      "projectNoOfUnit":4,
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"residential",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Icon",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/01/vaishnavi_icon_slider-1.jpg",
+      "projectLocation":"Richmond Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"current"
+     },
+      {
+      "projectTitle":"Vaishnavi Tech Park",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/11.jpg",
+      "projectLocation":"Sarjapur Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"current"
+     },
+      {
+      "projectTitle":"Vaishnavi Tech Square",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/01/techsquare-1-1349x700.jpg",
+      "projectLocation":"iblur ORR, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"current"
+     },
+    {
+      "projectTitle":"Vaishnavi Sovereign",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/08/Vaishnavi-Sovereign.jpg",
+      "projectLocation":"Sarjapur Junction, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"current"
+     },
+      {
+      "projectTitle":"Vaishnavi Meridian",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/meridian-1349x700.jpg",
+      "projectLocation":"Infantry Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"completed"
+     },
+      {
+      "projectTitle":"Vaishnavi Union29",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Union-29-1349x700.jpg",
+      "projectLocation":"Cubbon Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Signature",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/signature-1349x700.jpg",
+      "projectLocation":"Bellandur, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Spectrum",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/spectrum-1349x700.jpg",
+      "projectLocation":"Sarjapur Outer Ring Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi The Residency",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/img-3.png",
+      "projectLocation":"Residency Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"completed"
+     },
+     {
+      "projectTitle":"Vaishnavi Classic",
+      "projectImage":"https://www.vaishnavigroup.com/wp-content/uploads/2020/05/Classic-1349x700.jpg",
+      "projectLocation":"Kasturba Cross Road, Bengaluru",
+      "projectNoOfUnit":"",
+      "type":"",
+      "rera":"",
+      "moveOnReady":false,
+      "projectType":"commercial",
+      "projectStatus":"completed"
+     }
+    ]
+
+     
+}
