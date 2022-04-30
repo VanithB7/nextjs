@@ -24,7 +24,8 @@ const Carousel= ({carouselData})=>{
           {carouselData.map((carouseldata,index)=>{
               return(
 <SwiperSlide key={index} >
-    <Image alt="vaishnavi" className="w-full xl:h-[calc(100vh_-_90px)] object-cover" src={carouseldata.url} />
+    <Image  width={100}
+        height={50} alt="vaishnavi" className="w-full xl:h-[calc(100vh_-_90px)] object-cover" src={carouseldata.url} />
 </SwiperSlide>
               );
           })}

@@ -21,7 +21,8 @@ const [menu, setMenu] = useState(false);
       <>
 <div className={scroll?'container flex justify-between fixed bg-[#5b6664]  top-0 text-white ':'container flex justify-between text-[#1F1D5E]'}>
     <div className="logo">
-        <Image alt="menu close" className=" h-20 sm:h-24" src={scroll?'https://www.vaishnavigroup.com/wp-content/uploads/2019/10/vaishnavi-logofinal.svg':'https://www.vaishnavigroup.com/wp-content/uploads/2022/02/logo.svg'} />
+        <Image alt="menu close"  width={100}
+        height={50} className=" h-20 sm:h-24" src={scroll?'https://www.vaishnavigroup.com/wp-content/uploads/2019/10/vaishnavi-logofinal.svg':'https://www.vaishnavigroup.com/wp-content/uploads/2022/02/logo.svg'} />
     </div>
     <div className="hamburg-icon flex items-center" onClick={()=>setMenu(true)}>
         <span className='text-xl'>MENU</span>
