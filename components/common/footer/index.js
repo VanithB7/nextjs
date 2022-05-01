@@ -3,7 +3,7 @@ const Footer =()=>{
 
     return (
 <footer className="container mt-5">
-    <div className="sm:hidden lg:grid lg:grid-cols-3">
+    <div className="hidden  lg:grid lg:grid-cols-3">
 <div>
 <div className="flex justify-center items-center h-14">
 <span className="h-1 w-full bg-[#1F1D5E] "></span>
