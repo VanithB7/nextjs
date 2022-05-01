@@ -28,6 +28,10 @@ const JoinUS =()=>{
         </div>
 
 </section>
+<section className="container">
+    <h2 className=" text-2xl font-bold text-[#1F1D5E] text-center mt-10"> Current Openings</h2>
+
+</section>
 </>
     );
 };
